@@ -1,0 +1,31 @@
+header {
+  background-color: #b4e7f9;
+}
+
+.menu {
+  background-color: #f1f1f1;
+}
+
+
+.card-link {
+  color: #666;
+}
+
+.tenis {
+  width: 10rem;
+}
+
+.preco {
+  font-size: 18px;
+}
+
+.parcela {
+  font-size: 12px
+}
+
+@media (max-width: 768px)
+{
+  .menu {
+    display: none;
+  }
+}
