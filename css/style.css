@@ -37,9 +37,25 @@ header .fa {
   height: 30em;
 }
 
-.sobre {
-  padding: 8rem 0;
+
+#inicio {
+  background-color: #f7f6f6;
+  margin: 0 10%;
+  margin-top: -25px;
+  border: 2px solid rgb(235 235 235);
+  border-top: none;
 }
+
+.imgApres {
+  border-color: #fff;
+  border-width: 5px;
+  border-style: solid;
+}
+
+.sobre {
+  padding: 4rem 0;
+}
+
 
 .topMenu {
   background-color: #983628;

@@ -18,6 +18,10 @@
 }
 
 
+.sobreEvento {
+  padding: 8rem 0;
+}
+
 .nav-pills .nav-link {
   color: #6f6e6e;
 }
@@ -152,10 +156,18 @@
   .inverteMobile {
     flex-direction: column-reverse;
   }
- 
 
+  .sobre {
+    padding: 4rem 0;
 }
 
+.imgEvento {
+  margin-top: 0px;
+
+}
+.sobreEvento {
+  padding: 10rem 0;
+}
 
 
 
