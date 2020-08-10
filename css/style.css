@@ -6,6 +6,10 @@
   box-sizing: border-box;
 }
 
+.sede{
+  font-size: 0.6em;
+}
+
 body {
   font-family: 'Lato', sans-serif !important;
   color: #565555 !important;
