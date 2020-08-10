@@ -305,6 +305,10 @@ footer .midia {
   height: 8em;
 }
 
+.mobileDropdown a {
+  font-size: 0.5em !important;
+}
+
 footer a {
   color: white;
 }
@@ -329,6 +333,11 @@ footer a:hover {
   .mobileMenu {
     display: block; 
   }  
+
+  .dropdown-menu {
+    transform: translate3d(5px, 0, 0px) !important;
+    padding: 20px !important;
+    }
 
 }
 
