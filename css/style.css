@@ -46,13 +46,11 @@ header .fa {
   background-color: #f7f6f6;
   margin: 0 10%;
   margin-top: -25px;
-  border: 2px solid rgb(235 235 235);
-  border-top: none;
 }
 
 .imgApres {
   border-color: #fff;
-  border-width: 5px;
+  border-width: 3px;
   border-style: solid;
   border-radius: 10px;
 }
