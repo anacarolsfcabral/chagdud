@@ -96,7 +96,7 @@ header .fa {
 }
 
 .dropdown-menu {
-transform: translate3d(-79%, 20%, 0px) !important;
+transform: translate3d(-75%, 20%, 0px) !important;
 }
 
 .dropdown-item {
@@ -315,6 +315,11 @@ footer a:hover {
   color: #ccc;;
 }
 
+
+.windHorseMobile {
+  display: none;
+}
+
 @media screen and (max-width: 800px) {
 
   .icones img {
@@ -335,6 +340,14 @@ footer a:hover {
   .dropdown-menu {
     transform: translate3d(5px, 0, 0px) !important;
     padding: 20px !important;
+    }
+
+    .windHorse {
+      display: none;
+    }
+  
+    .windHorseMobile {
+      display: block;
     }
 
 }
