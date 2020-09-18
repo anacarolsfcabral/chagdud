@@ -1,6 +1,9 @@
 
 .bannerSobre {
   height: 20em;
+  background-repeat: no-repeat;
+  background-attachment: scroll;
+  background-size: cover;
 }
 
 .menu {
