@@ -100,9 +100,9 @@ header .fa {
 
 .dropdown-menu {
   transform: translate3d(0, 0, 0px) !important;
-  width: 90vw !important;
+  width: 70vw !important;
   top: 3vw !important;
-  left: -72vw !important;
+  left: -49vw !important;
 }
 
 .dropdown-item {
